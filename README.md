@@ -16,7 +16,8 @@ This Power BI dashboard analyzes sales performance, revenue trends, and key busi
 - Data Modeling
 - Data Cleaning
 ## 📊 Dashboard Preview
-<img width="1158" height="639" alt="image" src="https://github.com/user-attachments/assets/87fe59ae-2677-4045-8806-98c556b967a4" />
+<img width="1169" height="653" alt="image" src="https://github.com/user-attachments/assets/c132bea0-bb4d-47b3-805e-82c7396bb384" />
+
 
 
 ## 🎯 Business Problem
